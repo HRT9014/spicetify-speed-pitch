@@ -1,0 +1,11 @@
+[
+	{
+		"name": "Speed & Pitch",
+		"description": "Player-bar speed control (0.5x to 2x) using Spotify's native per-song speed, plus a finder for slowed and sped-up versions.",
+		"preview": "preview.png",
+		"main": "speedPitch.js",
+		"readme": "README.md",
+		"authors": [{ "name": "HRT9014", "url": "https://github.com/HRT9014" }],
+		"tags": ["speed", "playback speed", "slowed", "sped up", "nightcore", "versions"]
+	}
+]
